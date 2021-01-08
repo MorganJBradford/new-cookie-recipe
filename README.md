@@ -10,7 +10,7 @@
 
 ## Description
 
-_This is a webpage with a recipe for oatmeal-chocolate-chip cookies: including all af the ingredends you'll need and the instructions on how ta make them._
+_This is a webpage with a recipe for oatmeal-chocolate-chip cookies, including a list of ingredients you'll need and instructions on how to make them._
 
 ## Setup/Installation Requirements
 
